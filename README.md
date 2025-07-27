@@ -97,18 +97,6 @@ src/main/java/com/production/prod\_ready\_features/
 
 ---
 
-## 🛠️ Planned Enhancements (Phase 2+)
-
-- ✅ Unit Testing with JUnit + Mockito  
-- 🔐 Spring Security (JWT & Role-based Access)  
-- 🐳 Dockerization  
-- ☁️ Cloud Deployment on AWS  
-- 📄 Swagger / OpenAPI Documentation  
-- ⛔ Rate Limiting & Throttling  
-- ⚙️ CI/CD Integration (GitHub Actions)
-
----
-
 ## 👤 Developer
 
 **Shadab Rehan**  
